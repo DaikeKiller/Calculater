@@ -6,6 +6,9 @@ def checkHDL(HDL_result):
 	else:
 		return "low"
 
+def cholestoral_interface():
+	
+
 def interface():
 	print('My calculator program')
 	keep_running == True
